@@ -1,10 +1,11 @@
 
 import '../../css/Header/Header.css';
+import { words } from '../../staticWords';
 
 const Header = () => {
   return (
     <header>
-      <h2>Shopping Cart</h2>
+      <h2>{words.headerTitle}</h2>
     </header>
   )
 }
