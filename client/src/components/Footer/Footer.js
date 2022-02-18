@@ -4,9 +4,7 @@ import '../../css/Footer/Footer.css';
 const Footer = () => {
   return (
     <footer>
-      <h2>
-        Footer
-      </h2>
+      &copy; Copyright Hamza Nabil 2022
     </footer>
   )
 }
