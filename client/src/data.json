@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Baked cookies",
+    "imgUrl": "/images/Baked cookies.png",
+    "desc": "Baked cookies",
+    "price": 1,
+    "sizes": [
+      "1pec",
+      "3pec",
+      "5pec"
+    ],
+    "id": "id1"
+  },
+  {
+    "title": "Bread Food",
+    "imgUrl": "/images/Bread Food.png",
+    "desc": "Bread Food",
+    "price": 2,
+    "sizes": [
+      "1pec",
+      "3pec",
+      "5pec"
+    ],
+    "id": "id2"
+  },
+  {
+    "title": "doughnuts",
+    "imgUrl": "/images/doughnuts.png",
+    "desc": "doughnuts",
+    "price": 5,
+    "sizes": [
+      "1pec",
+      "3pec",
+      "5pec"
+    ],
+    "id": "id3"
+  },
+  {
+    "title": "raspberry cake",
+    "imgUrl": "/images/raspberry cake.png",
+    "desc": "raspberry cake",
+    "price": 20,
+    "sizes": [
+      "1pec",
+      "3pec",
+      "5pec"
+    ],
+    "id": "id4"
+  }
+]
