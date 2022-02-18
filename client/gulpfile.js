@@ -8,7 +8,7 @@ gulp.task('sass', async () => {
 })
 
 gulp.task('watch', async function () {
-  gulp.watch('./src/*.scss', async function () {
-    gulp.src('./src/*.scss').pipe(sass()).pipe(gulp.dest('./src/css'))
+  gulp.watch('./src/components/**/*.scss', async function () {
+    gulp.src('./src/components/**/*.scss').pipe(sass()).pipe(gulp.dest('./src/css'))
   })
 })
